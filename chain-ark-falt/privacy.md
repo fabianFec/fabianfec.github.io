@@ -42,7 +42,7 @@ Esta información nunca sale del dispositivo. Puedes borrar tu progreso con **Re
 
 ### Permisos
 - **Internet y estado de la red:** para cargar los videos opcionales y comprobar la fecha del premio diario. Sin conexión el juego funciona entero, pero sin videos ni premio diario.
-- **Identificador de publicidad y API de publicidad de Android (Privacy Sandbox):** los agrega el SDK de anuncios; como las solicitudes están marcadas como dirigidas a niños, no se usan para personalizar anuncios.
+- **Identificador de publicidad:** el juego no lo usa. Quitamos el permiso del identificador de publicidad y los de las API de publicidad de Android (Privacy Sandbox) que agrega el SDK de anuncios.
 
 El juego no solicita acceso a ubicación, cámara, micrófono, contactos ni archivos.
 
@@ -90,7 +90,7 @@ This information never leaves your device. You can delete your progress with **R
 
 ### Permissions
 - **Internet and network state:** to load the optional videos and check the date for the daily reward. Offline, the whole game works, just without videos or the daily reward.
-- **Advertising ID and Android advertising APIs (Privacy Sandbox):** added by the ads SDK; because requests are marked as child-directed, they are not used to personalize ads.
+- **Advertising ID:** the game does not use it. We remove the advertising ID permission and the Android advertising API permissions (Privacy Sandbox) that the ads SDK adds.
 
 The game does not request access to location, camera, microphone, contacts or files.
 
