@@ -10,11 +10,11 @@ Esta política se aplica a **Cosmo Drop FALT** para Android (`com.falt.cosmodrop
 
 ### Cuentas y almacenamiento local
 
-Puedes jugar sin cuenta. El juego no crea perfiles en la nube ni publica puntuaciones. Los récords de Campaña, Práctica y Arcade, el ciclo del récord de Campaña, el recipiente máximo desbloqueado y las preferencias de idioma, audio y gráficos se guardan en el dispositivo o navegador.
+Puedes jugar sin cuenta. El juego no crea perfiles en la nube ni publica puntuaciones. Los récords de Campaña, Práctica, Arcade y Music, el ciclo del récord de Campaña, el recipiente máximo desbloqueado y las preferencias de idioma, audio y gráficos se guardan en el dispositivo o navegador.
 
 ### Anuncios y servicios de terceros
 
-En Android, Google AdMob puede mostrar anuncios recompensados para activar poderes o recuperar una vida en Arcade, y anuncios intersticiales al avanzar a otro recipiente en Campaña. El juego solicita contenido publicitario con clasificación G. La versión web no muestra anuncios de AdMob.
+En Android, Google AdMob puede mostrar anuncios recompensados para activar poderes o recuperar una vida en Arcade y Music. Puede mostrar anuncios intersticiales al avanzar a otro recipiente en Campaña o al completar cada dos rondas en Arcade y Music. El juego solicita contenido publicitario con clasificación G. La versión web no muestra anuncios de AdMob.
 
 El SDK de Google Mobile Ads puede procesar la dirección IP, identificadores del dispositivo o de la cuenta, incluido el identificador publicitario de Android cuando está disponible, interacciones y datos de diagnóstico. Google utiliza esos datos para prestar y medir sus servicios publicitarios y prevenir fraudes. [Datos del SDK de Google Mobile Ads](https://developers.google.com/admob/android/privacy/play-data-disclosure) · [Cómo usa Google la información](https://policies.google.com/technologies/partner-sites).
 
@@ -34,11 +34,11 @@ This policy applies to **Cosmo Drop FALT** for Android (`com.falt.cosmodrop`) an
 
 ### Accounts and local storage
 
-You can play without an account. The game does not create cloud profiles or publish scores. Campaign, Practice and Arcade high scores, the Campaign record cycle, the highest unlocked vessel, and language, audio and graphics preferences are stored on your device or in your browser.
+You can play without an account. The game does not create cloud profiles or publish scores. Campaign, Practice, Arcade and Music high scores, the Campaign record cycle, the highest unlocked vessel, and language, audio and graphics preferences are stored on your device or in your browser.
 
 ### Ads and third-party services
 
-On Android, Google AdMob may show rewarded ads to activate powers or recover one life in Arcade, and interstitial ads when moving to another vessel in Campaign. The game requests G-rated ad content. The web version does not show AdMob ads.
+On Android, Google AdMob may show rewarded ads to activate powers or recover one life in Arcade and Music. It may show interstitial ads when moving to another vessel in Campaign or after every two completed rounds in Arcade and Music. The game requests G-rated ad content. The web version does not show AdMob ads.
 
 The Google Mobile Ads SDK may process your IP address, device or account identifiers, including the Android advertising ID when available, interactions, and diagnostic data. Google uses this data to provide and measure its advertising services and prevent fraud. [Google Mobile Ads SDK data disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure) · [How Google uses information](https://policies.google.com/technologies/partner-sites).
 
